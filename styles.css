@@ -1,0 +1,43 @@
+body{
+    color:#5c5c8a;
+    text-align:center;
+}
+
+div{
+    text-align:center;
+}
+
+
+html{
+    background-color:#bfbfbf;
+}
+
+
+img {
+    border:double 15px;
+    border-color:#262626;
+    width: 260px;
+    height:250px;
+    box-shadow: 0px 0px 20px #52527a;
+}
+
+input{
+    height:24px;
+    margin:8px;
+    width:300px;
+
+}
+
+button{
+    height:50px;
+    margin:10px;
+    box-shadow: 0px 0px 20px #52527a;
+}
+
+.start{
+    width:95px;
+}
+.counter{
+    color:black;
+    display:flex;
+}
